@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://skilled-llms.github.io/sitemap.xml

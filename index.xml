@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joint Workshop on Statistics  
+and Knowledge Integration  
+for Logic, Learning, Ethical Decisions,  
+and LLMs (SKILLED-LLMs 2026)
+ on SKILLED-LLMS</title>
+    <link>https://skilled-llms.github.io/2026/</link>
+    <description>Recent content in Joint Workshop on Statistics  
+and Knowledge Integration  
+for Logic, Learning, Ethical Decisions,  
+and LLMs (SKILLED-LLMs 2026)
+ on SKILLED-LLMS</description>
+    <generator>Hugo</generator>
+    <language>en-GB</language>
+    <atom:link href="https://skilled-llms.github.io/2026/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Attend</title>
+      <link>https://skilled-llms.github.io/2026/attend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://skilled-llms.github.io/2026/attend/</guid>
+      <description>&lt;h2 id=&#34;important-note&#34;&gt;Important Note&lt;/h2&gt;&#xA;&lt;p&gt;For each accepted paper, at least one author is required to register and attend the workshop in-person to present their paper on-site.&#xA;No-show paper will imply no publication of the paper on the workshop proceedings.&lt;/p&gt;&#xA;&lt;h2 id=&#34;venue-and-registration&#34;&gt;Venue and registration&lt;/h2&gt;&#xA;&lt;p&gt;The FLoC 2026 conference will be held in Lisbon, Portugal, from July 15 to July 26, 2026.&#xA;The participants are invited to refer to the &lt;a href=&#34;https://www.floc26.org/&#34;&gt;FLoC 2026&lt;/a&gt; website for further information regarding the venue, accommodation, or any travel matter.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
