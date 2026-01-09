@@ -34,4 +34,4 @@ Submissions can be:
 - Short/position papers: up to 6 pages
 - Extended abstracts: up to 2 pages
 
-Follow the [CEUR-WS formatting guidelines](https://ceur-ws.org/HOWTOSUBMIT.html) and the [Overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw). Submit via [submission page](https://submissions.floc26.org/llms).
+Follow the [CEUR-WS formatting guidelines](https://ceur-ws.org/HOWTOSUBMIT.html) and the [Overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw). Submit via [submission page](https://submissions.floc26.org/skilled-llms/).
