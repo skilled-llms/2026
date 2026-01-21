@@ -17,6 +17,8 @@ Reasoning is an essential component of human intelligence as it plays a fundamen
 
 The goal of this workshop is to create a platform for researchers from different disciplines and AI perspectives to explore approaches and techniques for reconciling reasoning between deep learning and logic-based representations. This includes integrating KR-style reasoning with deep learning models to build neuro-symbolic systems, as well as analyzing the reasoning abilities of large language models and formalizing the kinds of reasoning they carry out.
 
-Furthermore, as language models become increasingly prevalent in society, it is crucial to address ethical implications of their deployment and use, including bias, fairness, transparency, and accountability. The workshop also explores statistical foundations of knowledge integration and the interplay between symbolic and statistical approaches in learning systems.
+Furthermore, as language models become increasingly prevalent in society, it is crucial to address the ethical implications of their deployment and use, including bias, fairness, transparency, and accountability.
+
+Finally, the workshop is open to any approach that combines data-driven techniques with knowledge representation and reasoning, whether based on deep learning, statistics, or other paradigms.
 
 By merging these three communities—NeLaMKRR, ReLLM, and SKILL—we aim to foster interdisciplinary collaboration and create a comprehensive forum for discussing reasoning, ethics, and knowledge integration in AI systems.
