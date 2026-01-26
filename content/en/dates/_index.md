@@ -6,13 +6,16 @@ title: "Important Dates"
 ---
 
 ### Paper submission deadline ###
-🚨 __TBD__
+🚨 May 8, 2026
 
 ### Author Notification ###
-📬 __TBD__
-
-### Workshop Date ###
-🔈 July 18-19, 2026
+📬 June 8, 2026
 
 ### Camera-ready Submission ###
-🚨 __TBD__, in any case _after the workshop_, and only for authors who are willing to publish their paper in post-preceedings.
+🚨 22 June, 2026
+
+### Workshop Registration deadline ###
+🚨 July 1, 2026
+
+### Workshop Date ###
+🔈 July 18, 2026
