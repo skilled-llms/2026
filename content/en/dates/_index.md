@@ -6,16 +6,16 @@ title: "Important Dates"
 ---
 
 ### Paper submission deadline ###
-🚨 May 8, 2026
+🚨 April 20, 2026
 
 ### Author Notification ###
-📬 June 8, 2026
+📬 May 20, 2026
 
 ### Camera-ready Submission ###
 🚨 22 June, 2026
 
 ### Workshop Registration deadline ###
-🚨 July 1, 2026
+🚨 June 1, 2026
 
 ### Workshop Date ###
 🔈 July 18, 2026
