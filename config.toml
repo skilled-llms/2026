@@ -42,19 +42,19 @@ cover_dimming_class = "bg-black-60"
 recent_posts_number = 3
 custom_css = ["custom.scss"]
 
-[params.ananke.social.share]
-networks = [
-  "bluesky"
-]
+# [params.ananke.social.share]
+# networks = [
+#   "bluesky"
+# ]
 
-[params.ananke.social.follow]
-networks = [
-  "bluesky"
-]
+# [params.ananke.social.follow]
+# networks = [
+#   "bluesky"
+# ]
 
 
-[params.ananke.social.bluesky]
-username = "SKILLED-LLMS.ws"
+# [params.ananke.social.bluesky]
+# username = "SKILLED-LLMS.ws"
 
 [markup.goldmark.renderer]
 unsafe= true
