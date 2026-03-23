@@ -22,3 +22,5 @@ Furthermore, as language models become increasingly prevalent in society, it is 
 Finally, the workshop is open to any approach that combines data-driven techniques with knowledge representation and reasoning, whether based on deep learning, statistics, or other paradigms.
 
 By merging these three communities—NeLaMKRR, ReLLM, and SKILL—we aim to foster interdisciplinary collaboration and create a comprehensive forum for discussing reasoning, ethics, and knowledge integration in AI systems.
+
+🔗 This workshop is affiliated with the [International Conference on Principles of Knowledge Representation and Reasoning (KR)](https://kr.org/KR2026/index.html) and the [Federated Logic Conference (FLoC)](https://www.floc26.org/).
