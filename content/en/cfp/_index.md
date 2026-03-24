@@ -38,8 +38,12 @@ Papers must be submitted to one of the following tracks:
 
 - **NeLaMKRR**, dedicated to representation and reasoning with large language models
 - **ReLLM**, dedicated to ethical aspects of large language models
-- **SKILL**, dedicated to the integration of statistical learning and symbolic reasoning
+- **SKILL**, dedicated to the integration of statistical learning and symbolic reasoning in neuro-symbolic systems
 
 Follow the [CEUR-WS formatting guidelines](https://ceur-ws.org/HOWTOSUBMIT.html) and the [Overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw). 
 
 Submit via [submission page](https://submissions.floc26.org/skilled-llms/).
+
+### Workshop Registration
+
+All information available on the [FLoC 2026 registration page](https://www.floc26.org/registration).
