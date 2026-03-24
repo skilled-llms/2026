@@ -77,7 +77,7 @@ theme_version: '2.8.2'
   </div>
 
   <div>
-    <img src="../images/organizers/nourhan.jpg" alt="Nourhan Ehab" width="150" style="border-radius:50%; max-width:100%;">
+    <img src="../images/organizers/nourhan2.jpg" alt="Nourhan Ehab" width="150" style="border-radius:50%; max-width:100%;">
     <p>Nourhan Ehab
     German University in Cairo, Egypt</p>
   </div>
