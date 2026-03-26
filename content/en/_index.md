@@ -5,7 +5,7 @@ title: |
   for Logic, Learning, Ethical Decisions,  
   and LLMs (SKILLED-LLMs 2026)
 description: |
-  July 18, 2026
+  July 18, 2026, Lisbon, Portugal
 theme_version: '2.8.2'
 cascade:
   featured_image: '/images/lisbon.jpg'
