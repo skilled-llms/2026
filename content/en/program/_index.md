@@ -11,6 +11,9 @@ __TBD__
 
 ## 🎤 Invited Speakers
 
+__TBD__
+
+<!--
 ### Giovanni Ciatto
 **Tenure-track Researcher, University of Bologna**
 
@@ -20,3 +23,4 @@ __TBD__
     <p style="font-size: 0.9rem; line-height: 1.4;">Giovanni Ciatto is a tenure-track researcher at the Department of Computer Science and Engineering, University of Bologna, with a PhD in Data Science and Computation and a Master Degree in Computer Science and Engineering. His research focuses on AI, logic programming, multi-agent systems, distributed systems, and software engineering, with a particular emphasis on symbolic reasoning, sub-symbolic processing, and their intersection. He has taught these topics at the University of Bologna and international venues and has co-authored over 70 publications. He is actively involved in organising special issues, reviewing for major AI and MAS journals and conferences, and contributing to research-oriented open-source software tools, including logic solvers (e.g., 2P-Kt) and BDI agent programming toolkits (e.g., JaKtA).</p>
   </div>
 </div>
+-->
