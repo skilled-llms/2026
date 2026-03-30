@@ -42,7 +42,7 @@ Papers must be submitted to one of the following tracks:
 
 The review process is double-blind. Authors are responsible for anonymising their submission. In particular, author names or affiliations must be removed as well as any other identifying information. Acknowledgements of funding or assistance should also be omitted at the submission stage. All identifying information can be added to the final camera-ready version of accepted papers. The authors should also remove identifying information from the PDF metadata. Submissions that violate anonymity will be rejected without further review.
 
-Follow the [CEUR-WS formatting guidelines](https://ceur-ws.org/HOWTOSUBMIT.html) and the [Overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw). 
+Proceedings shall be submitted to CEUR-WS.org for online publication. Follow the [CEUR-WS formatting guidelines](https://ceur-ws.org/HOWTOSUBMIT.html) and the [Overleaf template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw). 
 
 Submit via [submission page](https://submissions.floc26.org/skilled-llms/).
 
