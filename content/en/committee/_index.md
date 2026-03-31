@@ -24,73 +24,73 @@ theme_version: '2.8.2'
 
   <div>
     <img src="../images/organizers/elena.jpg" alt="Elena Umili" width="150" style="border-radius:50%; max-width:100%;">
-    <p>Elena Umili
+    <p>Elena Umili <br>
     Sapienza University of Rome, Italy</p>
   </div>
 
   <div>
     <img src="../images/organizers/federico.jpg" alt="Federico Sabbatini" width="150" style="border-radius:50%; max-width:100%;">
-    <p>Federico Sabbatini
+    <p>Federico Sabbatini <br>
     University of Bologna, Italy</p>
   </div>
 
   <div>
     <img src="../images/organizers/francesca.jpg" alt="Francesca Toni" width="150" style="border-radius:50%; max-width:100%;">
-    <p>Francesca Toni
+    <p>Francesca Toni <br>
     Imperial College London, UK</p>
   </div>
 
   <div>
     <img src="../images/organizers/francesco.jpg" alt="Francesco Chiariello" width="150" style="border-radius:50%; max-width:100%;">
-    <p>Francesco Chiariello
+    <p>Francesco Chiariello <br>
     RWTH Aachen University, Germany</p>
   </div>
 
   <div>
     <img src="../images/organizers/ha.jpg" alt="Ha Thanh Nguyen" width="150" style="border-radius:50%; max-width:100%;">
-    <p>Ha Thanh Nguyen
+    <p>Ha Thanh Nguyen <br>
     NII, Tokyo, Japan</p>
   </div>
 
   <div>
     <img src="../images/organizers/ken.jpg" alt="Ken Satoh" width="150" style="border-radius:50%; max-width:100%;">
-    <p>Ken Satoh
+    <p>Ken Satoh <br>
     ROIS-DS, Tokyo, Japan</p>
   </div>
 
   <div>
     <img src="../images/organizers/kostas.jpg" alt="Kostas Stathis" width="150" style="border-radius:50%; max-width:100%;">
-    <p>Kostas Stathis
+    <p>Kostas Stathis <br>
     Royal Holloway University of London, UK</p>
   </div>
 
   <div>
     <img src="../images/organizers/matteo.jpg" alt="Matteo Magnini" width="150" style="border-radius:50%; max-width:100%;">
-    <p>Matteo Magnini
+    <p>Matteo Magnini <br>
     University of Luxembourg, Luxembourg</p>
   </div>
 
   <div>
     <img src="../images/organizers/mervat.jpg" alt="Mervat Abuelkheir" width="150" style="border-radius:50%; max-width:100%;">
-    <p>Mervat Abuelkheir
+    <p>Mervat Abuelkheir <br>
     German University in Cairo, Egypt</p>
   </div>
 
   <div>
     <img src="../images/organizers/nourhan2.jpg" alt="Nourhan Ehab" width="150" style="border-radius:50%; max-width:100%;">
-    <p>Nourhan Ehab
+    <p>Nourhan Ehab <br>
     German University in Cairo, Egypt</p>
   </div>
 
   <div>
     <img src="../images/organizers/randy.jpg" alt="Randy Goebel" width="150" style="border-radius:50%; max-width:100%;">
-    <p>Randy Goebel
+    <p>Randy Goebel <br>
     University of Alberta, Canada</p>
   </div>
 
   <div>
     <img src="../images/organizers/yves.jpg" alt="Yves Lesperance" width="150" style="border-radius:50%; max-width:100%;">
-    <p>Yves Lesperance
+    <p>Yves Lesperance <br>
     York University, Canada</p>
   </div>
 
