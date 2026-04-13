@@ -26,6 +26,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://skilled-llms.github.io/2026/pc/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://skilled-llms.github.io/2026/program/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
