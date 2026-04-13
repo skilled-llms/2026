@@ -30,9 +30,9 @@ This workshop merges three previously separate workshops:
 
 Submissions can be:
 
-- Long papers: up to 12 pages
-- Short/position papers: up to 6 pages
-- Extended abstracts: up to 2 pages. They can be used to present works already published or accepted for publication in other venues.
+- Long papers: up to 12 pages, excluding references and appendices
+- Short/position papers: up to 6 pages, excluding references and appendices
+- Extended abstracts: up to 2 pages, excluding references and appendices. They can be used to present works already published or accepted for publication in other venues.
 
 Papers must be submitted to one of the following tracks:
 
