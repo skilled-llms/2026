@@ -20,8 +20,6 @@ Luke Dickens, University College London, UK
 
 Tilman Hinnerichs, TU Delft, Netherlands
 
-Matteo Magnini, University of Luxembourg, Luxembourg
-
 Matteo Mancanelli, Sapienza University of Rome, Italy
 
 Sara Montagna, University of Urbino, Italy
