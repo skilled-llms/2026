@@ -6,12 +6,10 @@ title: "Important Dates"
 ---
 
 ### Paper submission deadline ###
-🚨 April 20, 2026
+🚨 ~~April 20, 2026~~ April 30, 2026
 
 ### Author Notification ###
-~~📬 May 20, 2026~~
-
-📬 May 30, 2026
+📬 May 20, 2026
 
 ### Camera-ready Submission ###
 🚨 June 22, 2026
