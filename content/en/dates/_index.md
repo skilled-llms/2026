@@ -5,7 +5,7 @@ title: "Important Dates"
 #     weight: 20
 ---
 
-### Paper submission deadline ###
+### Paper Submission Deadline ###
 🚨 ~~April 20, 2026~~ April 30, 2026
 
 ### Author Notification ###
