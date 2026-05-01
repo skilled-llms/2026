@@ -9,7 +9,7 @@ theme_version: '2.8.2'
 - Elena Umili, Sapienza University of Rome, Italy
 - Federico Sabbatini, University of Bologna, Italy
 - Francesca Toni, Imperial College London, UK
-- Francesco Chiariello, RWTH Aachen University, Germany
+- Francesco Chiariello, Inria & ENS | PSL, France
 - Ha Thanh Nguyen, NII, Tokyo, Japan
 - Ken Satoh, ROIS-DS, Tokyo, Japan
 - Kostas Stathis, Royal Holloway University of London, UK
@@ -43,7 +43,7 @@ theme_version: '2.8.2'
   <div>
     <img src="../images/organizers/francesco.jpg" alt="Francesco Chiariello" width="150" style="border-radius:50%; max-width:100%;">
     <p>Francesco Chiariello <br>
-    RWTH Aachen University, Germany</p>
+    Inria & ENS | PSL, France</p>
   </div>
 
   <div>
