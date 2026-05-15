@@ -44,8 +44,6 @@ Daniel Sonntag, German Research Center for Artificial Intelligence (DFKI), Germa
 
 Gabriel Freedman, Imperial College London, United Kingdom
 
-Giovanni Ciatto, University of Bologna, Italy
-
 John D. Martin, Openmind Research Institute, Canada
 
 Lihu Chen, Imperial College London, United Kingdom
