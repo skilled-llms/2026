@@ -63,3 +63,9 @@ Vince Trencsenyi, Royal Holloway University of London, United Kingdom
 Vu Tran, Japan Advanced Institute of Science and Technology, Japan
 
 Wachara Funwacharakorn, Center for Juris-Informatics (ROIS-DS), Japan
+
+Haythem Ismail, German University in Cairo, Egypt
+
+Carolin Schindler, Ulm University, Germany
+
+Mayar Abdelwahab, German University in Cairo, Egypt
