@@ -5,7 +5,7 @@ theme_version: '2.8.2'
 
 ## Accepted papers
 
-**First Steps Towards Human-AI Ranking Aggregation** 
+**First Steps Towards Human-AI Ranking Aggregation**  <br>
 *J. Karge, R. Ferguson, D. Grimaldi, J. Haldimann, R. Madzime, T. Meyer*
 
 **Neurosymbolic Clinical Reasoning: From Evidence Extraction to Reason-Based Decision**
