@@ -7,14 +7,16 @@ title: "Program"
 
 ## 🗓 Program
 
+<p><em>Chair: Matteo Magnini &mdash; 09:00 – 10:15</em></p>
+
 <table style="width:100%; border-collapse: collapse; margin-bottom: 1.5rem;">
   <tbody>
     <tr>
-      <td style="padding: 8px 12px; white-space: nowrap; font-weight: bold;">09:00 – 10:05</td>
+      <td style="padding: 8px 12px; white-space: nowrap; font-weight: bold;">09:00 – 10:15</td>
       <td style="padding: 8px 12px;"><strong>Opening and Invited Talk</strong><br><em></em></td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td style="padding: 8px 12px; white-space: nowrap; font-weight: bold;">10:05 – 10:30</td>
+      <td style="padding: 8px 12px; white-space: nowrap; font-weight: bold;">10:15 – 10:30</td>
       <td style="padding: 8px 12px;">☕ Coffee Break</td>
     </tr>
   </tbody>
