@@ -44,7 +44,9 @@ The review process is double-blind. Authors are responsible for anonymising thei
 
 ### Camera-ready Submission
 
-Accepted papers will be published in a CEUR workshop proceedings volume. To prepare your camera ready version, you should:
+Accepted papers will be included in the proceedings that will be submitted to CEUR-WS.org for consideration of publication.
+
+To prepare your camera ready version, you should:
 
 1. Format the paper according to CEUR-ART style for typesetting papers: **chose the ONE COLUMN style**, **the page limit is 12 pages, plus references**
 
