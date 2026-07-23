@@ -3,6 +3,8 @@ title: "Accepted papers"
 theme_version: '2.8.2'
 ---
 
+**Proceedings are now available at https://ceur-ws.org/Vol-4229/!!**
+
 ## Accepted papers
 
 **First Steps Towards Human-AI Ranking Aggregation** <br>
